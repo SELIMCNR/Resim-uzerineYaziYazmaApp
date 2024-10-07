@@ -1,0 +1,10 @@
+C:\Users\btk02\source\repos\resimÜzerineYazıYazma\resimÜzerineYazıYazma\bin\Debug\resimÜzerineYazıYazma.exe.config
+C:\Users\btk02\source\repos\resimÜzerineYazıYazma\resimÜzerineYazıYazma\bin\Debug\resimÜzerineYazıYazma.exe
+C:\Users\btk02\source\repos\resimÜzerineYazıYazma\resimÜzerineYazıYazma\bin\Debug\resimÜzerineYazıYazma.pdb
+C:\Users\btk02\source\repos\resimÜzerineYazıYazma\resimÜzerineYazıYazma\obj\Debug\resimÜzerineYazıYazma.csproj.AssemblyReference.cache
+C:\Users\btk02\source\repos\resimÜzerineYazıYazma\resimÜzerineYazıYazma\obj\Debug\resimÜzerineYazıYazma.Form1.resources
+C:\Users\btk02\source\repos\resimÜzerineYazıYazma\resimÜzerineYazıYazma\obj\Debug\resimÜzerineYazıYazma.Properties.Resources.resources
+C:\Users\btk02\source\repos\resimÜzerineYazıYazma\resimÜzerineYazıYazma\obj\Debug\resimÜzerineYazıYazma.csproj.GenerateResource.cache
+C:\Users\btk02\source\repos\resimÜzerineYazıYazma\resimÜzerineYazıYazma\obj\Debug\resimÜzerineYazıYazma.csproj.CoreCompileInputs.cache
+C:\Users\btk02\source\repos\resimÜzerineYazıYazma\resimÜzerineYazıYazma\obj\Debug\resimÜzerineYazıYazma.exe
+C:\Users\btk02\source\repos\resimÜzerineYazıYazma\resimÜzerineYazıYazma\obj\Debug\resimÜzerineYazıYazma.pdb
